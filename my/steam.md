@@ -1,3 +1,3 @@
 ---
-redirect_to: http://steamcommunity.com/id/dexp/
+redirect_to: 'http://steamcommunity.com/id/dexp/'
 ---
