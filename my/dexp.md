@@ -1,3 +1,4 @@
 ---
+layout: r
+redir_to: http://dexp.in
 ---
-http://dexp.in
