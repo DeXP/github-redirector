@@ -12,8 +12,10 @@
   <meta http-equiv="refresh" content="0;url={{ page.redir_to }}" />
 </head>
 <body>
-  <h1>Redirecting...</h1>
-  <a href="{{ page.redir_to }}">Click here if you are not redirected.<a>
   <script>location='{{ page.redir_to }}'</script>
+  <noscript>
+    <h3>Redirecting...</h3>
+    <a href="{{ page.redir_to }}">Click here if you are not redirected.<a>
+  </noscript>
 </body>
 </html>
