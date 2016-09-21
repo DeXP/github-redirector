@@ -1,5 +1,6 @@
-name: DeXPeriX's links redirector
+name: DeXPeriX links redirector
 url: http://g.dexp.in
+markdown: kramdown
 permalink: /:categories/:title.html
 gems:
   - jekyll-redirect-from
